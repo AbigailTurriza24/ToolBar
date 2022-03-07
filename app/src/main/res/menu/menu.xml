@@ -5,7 +5,7 @@
         android:id="@+id/busqueda"
         android:icon="@drawable/ic_search_black_24dp"
         android:title="Search"
-
+/>//menu
 
         app:actionViewClass="android.widget.SearchView"
         app:showAsAction="ifRoom|collapseActionView"/>
