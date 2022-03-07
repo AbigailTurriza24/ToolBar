@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
-
+//Pantalla dos
 class PantallaDos : AppCompatActivity() {
 
     var toolbar: Toolbar? = null
